@@ -3,6 +3,8 @@ name = "stringplus"
 version = "0.1.0"
 authors = ["Muhammad Mominul Huque <mominul2082@gmail.com>"]
 description = "A helper crate for dealing easily with Rust Strings."
-licence = "MIT"
+license = "MIT"
+categories = ["data-structures", "rust-patterns"]
+keywords = ["string", "substring"]
 
 [dependencies]
